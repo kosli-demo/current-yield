@@ -1,1 +1,1 @@
-current-yield 1783643226
+current-yield 1783693501
